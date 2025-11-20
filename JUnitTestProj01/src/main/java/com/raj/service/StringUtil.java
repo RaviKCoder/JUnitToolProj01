@@ -9,10 +9,4 @@ public class StringUtil {
 		return str.equalsIgnoreCase(revStr);
 	}
 	
-	public int getLength(String str) {
-		int length = str.length();
-		return length;
-	}
-	
 }
-//
