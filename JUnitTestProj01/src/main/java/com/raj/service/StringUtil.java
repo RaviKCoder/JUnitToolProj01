@@ -11,7 +11,7 @@ public class StringUtil {
 	
 	public int getLength(String str) {
 
-		int length = str.length();//Gives the no. of character in string//Gives the length of the String
+		int length = str.length();//Gives the no. of character in string--//Gives the length of the String
 		return length;
 	}
 	
