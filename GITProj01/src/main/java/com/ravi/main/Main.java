@@ -12,5 +12,6 @@ public class Main {
 	
 	UPIPayment upiPayment=new UPIPayment();
 	System.out.println(upiPayment.doUPIPayment(9471718299L, 5000.0));
+	System.out.println(upiPayment.doUPIPaymentByAccno(123456789L, 10000.0));
 }
 }
